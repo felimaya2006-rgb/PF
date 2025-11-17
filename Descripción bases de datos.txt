@@ -1,0 +1,49 @@
+Base#1 (Diabetes)
+Filas=768
+Columnas=9
+
+1. Pregnancies: Esta columna proporciona información sobre el número de veces que una paciente estuvo embarazada.
+
+2. Glucose: Esta columna informa sobre la concentración de glucosa en plasma a las 2 horas en una prueba de tolerancia oral a la glucosa.
+
+3. BloodPressure: Esta columna muestra la presión arterial diastólica (mmHg).
+
+4. SkinThinckness: Esta columna proporciona información sobre el grosor del pliegue cutáneo del tríceps (mm).
+
+5. Insulin: Esta columna proporciona información sobre la insulina sérica a las 2 horas (mu U/ml).
+
+6. BMI: Esta columna indica el índice de masa corporal (IMC), calculado como el peso en kg dividido por el cuadrado de la altura en metros.
+
+7. DiabetesPedigreeFunction: Esta columna representa la función de pedigrí de la diabetes.
+
+8. Age: Esta columna proporciona información sobre los años.
+
+9. Outcome:Esta columna del conjunto de datos es el objetivo, donde 0 representa 'No' (sano) y 1 representa 'Sí'.
+
+
+Base#2 (Cancer)
+Filas=699
+Columnas=11
+
+1.Sample code number id number: Número de identificación del código de muestra
+
+2.Clump Thickness: Grosor del cúmulo (1-10)
+
+3.Uniformity of Cell Size: Uniformidad del tamaño celular (1-10)
+
+4.Uniformity of Cell Shape: Uniformidad de la forma celular (1-10)
+
+5.Marginal Adhesión: Adhesión marginal (1-10)
+
+6.Single Epithelial Cell Size: Tamaño de la célula epitelial individual (1-10)
+
+7.Bare Nuclei: Núcleos desnudos (1-10)
+
+8.Bland Chromatin: Cromatina homogénea (1-10)
+
+9.Normal Nucleoli: Nucléolos normales (1-10)
+
+10.Mitoses: Mitosis (1-10)
+
+11.Class: Clasificación (2 para benigno, 4 para maligno).
+ 
